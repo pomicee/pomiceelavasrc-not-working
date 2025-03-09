@@ -2,9 +2,9 @@ plugins {
     id "dev.arbjerg.lavalink.gradle-plugin" version "1.0.15"
 }
 
-archivesBaseName = "baldman-plugin"
+archivesBaseName = "pomiceelavasrc"
 lavalinkPlugin {
-    name = "baldman-plugin"
+    name = "pomiceelavasrc"
     apiVersion = "4.0.0"
     serverVersion = "4.0.6"
     configurePublishing = false
